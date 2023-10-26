@@ -1,1 +1,1 @@
-ReactDom.render()
+ReactDom.render(<h1></h1>)

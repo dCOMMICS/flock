@@ -28,3 +28,8 @@ html, body{
     height: 100vh;
     background-color: black;
 }
+
+#workingarea{
+    width: 100%;
+    max-width: 1920px;
+}

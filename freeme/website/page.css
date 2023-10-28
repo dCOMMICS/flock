@@ -42,3 +42,7 @@ html, body{
     width: 100%;
     padding: 20px 0;
 }
+
+#nav img{
+    height: 60px;
+}

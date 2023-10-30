@@ -50,13 +50,13 @@ html, body{
     height: 60px;
 }
 
-#nleft{
+#nleft, #nright{
     display: flex;
     align-items: center;
     gap: 40px;
 }
 
-#nleft a{
+#nav a{
     text-decoration: none;
     text-transform: uppercase;
     font-size: 13px;

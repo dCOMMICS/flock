@@ -71,3 +71,9 @@ html, body{
     height: 100px;
     background-color: aquamarine;
 }
+
+#heroleft{
+    width: 50%;
+    height: 100px;
+    background-color: pink ;
+}

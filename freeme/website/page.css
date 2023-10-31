@@ -91,3 +91,11 @@ html, body{
     height: 100px;
     background-color: #fff7f9 ;
 }
+
+#heroleft .elem h1{
+    font-family: "kajiro";
+    /* color: #4c0023; */
+    color: #FF3B8D;
+    font-weight: 100;
+    font-size: 10vw;
+}

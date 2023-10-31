@@ -5,6 +5,7 @@ var reverse = function(s){
 }
 
 var barista ={
+    
     str1: "ion",
     str2: reverse ("rscne"),
     str3: "ypt",

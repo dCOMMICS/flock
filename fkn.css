@@ -1,7 +1,12 @@
 #hapojuu{
     color: aquamarine;
+    font-size: 24;
+    font-weight: bolder;
 }
 
 h1{
     color: black;
+}
+.hapojuu{
+    font-weight: 100px;
 }

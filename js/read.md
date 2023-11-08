@@ -4,6 +4,7 @@
 2. Using react via CDN
 3. Setup react app via Webpack
 4. Module 4
+
 	- Introduction to JSX
 	- Element vs Component
 	- Conditional rendering
